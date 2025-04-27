@@ -5,7 +5,7 @@
     font-family: 'Poppins', sans-serif;
 }
 body {
-    background: #39297b;
+    background: #000000;
     color: #ffffff;
 }
 h1 {
@@ -18,7 +18,7 @@ form {
     max-width: 600px;
     margin: auto;
     height: 80px;
-    background-color: #493989;
+    background-color: #2a2a2a;
     display: flex;
     align-items: center;
     border-radius: 8px;
@@ -36,9 +36,10 @@ form input {
 form button {
     padding: 0 40px;
     height: 100%;
-    background-color: #ff3929;
-    color: #ffffff;
-    font-size: 18px;
+    background-color: #ffffff;
+    color: #000000;
+    font-size: 20px;
+    font-weight: 500;
     border: 0;
     outline: 0;
     border-top-right-radius: 8px;
@@ -50,8 +51,8 @@ form button {
     font-size: 18px;
 }
 #show-more-btn {
-    background-color: #ff3929;
-    color: #ffffff;
+    background-color: #ffffff;
+    color: #000000;
     border: 0;
     outline: 0;
     padding: 10px 20px;
